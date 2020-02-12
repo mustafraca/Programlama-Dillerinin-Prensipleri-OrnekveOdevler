@@ -1,0 +1,17 @@
+Veriler:500-1000-1
+Veriler:499-1532-6
+Veriler:600-1100-2
+Veriler:700-1200-3
+Veriler:123-3210-0
+Veriler:800-1300-4
+Veriler:900-1400-5
+Veriler:598-1098-1
+Veriler:1000-999-7
+Veriler:698-1198-2
+Veriler:500-1000-6
+Veriler:798-1298-3
+Veriler:898-1398-4
+Veriler:500-1999-2
+Veriler:998-1498-5
+Veriler:654-1456-1
+Veriler:100-1000-1
